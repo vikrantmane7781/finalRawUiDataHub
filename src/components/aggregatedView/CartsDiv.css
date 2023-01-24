@@ -1,0 +1,49 @@
+.ChartAgMain{
+    margin-top: 2%;
+    background-color: white!important;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+
+.sect{
+    display: flex;
+    flex-direction: row;
+}
+.spanner{
+    float: left;
+    font-size: 20px;
+}
+.tager{
+    box-shadow: 1rgb(196 181 181) 2px 4px 5px;
+    margin-top: 10px;
+}
+.mapbox{
+    box-shadow: 1rgb(196 181 181) 2px 4px 5px;
+    margin-top: 10px;
+    
+}
+.topSelectBox{
+    position: absolute;
+    margin-top: 40px;
+    margin-left:350px;
+}
+.rsm-svg {
+    width:532px;
+   float:left;
+}
+.register__date3Sg{
+    
+       margin-left: 10px !important;
+      margin-right: 10px !important;
+      height: 25px;
+      width: 55%;
+      font-size: 15px;
+      outline: #CCD0D5;
+      border-radius: 5px;
+      float:inherit;
+      margin-bottom: 10px;
+}
+.MuiIconButton-label {
+margin-top: 5px;
+}
